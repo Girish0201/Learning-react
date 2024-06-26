@@ -1,0 +1,30 @@
+#heading {
+    color:red;
+}
+
+#parent {
+    color:rgb(91, 178, 66);
+    font: size 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* #child1 {
+    color: rgb(107, 141, 167);
+        font: size 26px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 400;
+        font-style: normal;
+} */
+#child2 {
+    color: rgb(0, 71, 126);
+    font: size 69px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: bold;
+}
+/* h1,h2 {
+    color:aquamarine;
+    font-size:12px;
+} */
